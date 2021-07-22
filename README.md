@@ -37,3 +37,10 @@ With this project, it is intended to gather information to answer these question
 7. What are the conditions for a person to be removed from the program?
 8. What is the guarantee that the Insiders program is better than the rest of the base?
 9. What actions can the marketing team take to increase revenue?
+
+## Data Collection
+The data used in this project is available at https://www.kaggle.com/vik2012kvs/high-value-customers-identification/code
+
+## Software Dependency
+This project is being developed in Python. All packages required and their versions are listed in the jupyter notebooks created in each step of the project development.
+
